@@ -1,10 +1,12 @@
 #+STARTUP: indent
 
 * Hi there 👋
-My name is Andrew Soutar. I write code - mostly in Common Lisp and C
-(odd combination, I know), but also Python, JS, C++, whatever. I keep
-most of my code public. Contributions and comments are welcome - and
-if you're having trouble using my code, feel free to reach out!
+My name is Andrew Soutar. During the day, I write code for @HostiFi, a
+Unifi and UISP cloud host. At night, I write more code - mostly in
+Common Lisp and C (odd combination, I know), but also Python, JS, C++,
+whatever. Most of that code is public. Contributions and comments are
+welcome - and if you're having trouble using my code, feel free to
+reach out!
 * What I'm Working On
 - [[https://github.com/andrewsoutar/figment][figment]] :: I'm building a text editor that works the way I do. It's
   written in Common Lisp (to make it easy for me to extend), and uses
@@ -19,10 +21,7 @@ if you're having trouble using my code, feel free to reach out!
   one-off remote access - useful for troubleshooting a problem, pair
   programming, things like that. This one has been on the back burner
   for awhile, so I haven't made significant progress on it.
-* Hire Me!
-I'm looking for work! My expertise is in development (especially web
-development/full-stack) and security (red/blue team, especially
-reverse engineering). Check out my resume:
-[[https://andrewsoutar.com/resume]]. (It's [[https://github.com/andrewsoutar/resume][open-source]], and built with
-[[https://svelte.dev/][Svelte]]!) If you're interested in working with me, get in touch:
+* More about me
+Check out my resume: [[https://andrewsoutar.com/resume]]. (It's
+[[https://github.com/andrewsoutar/resume][open-source]], and built with [[https://svelte.dev/][Svelte]]!) Or get in touch:
 [[mailto:andrew@andrewsoutar.com][andrew@andrewsoutar.com]].
